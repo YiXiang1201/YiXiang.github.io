@@ -1,1 +1,1 @@
-com.YantPacks-iOS@YiXiang.mc
+com.YantPacksiOS@YiXiang.mc
